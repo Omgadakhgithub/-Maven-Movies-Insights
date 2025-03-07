@@ -126,7 +126,7 @@ Highlight gaps in the inventory and optimize stock levels.
 
 21. “I’d like to know which store each customer goes to, and whether or not they are active. Could you pull a list of first and last names of all customers, and label them as either ‘store 1 active’, ‘store 1 inactive’, ‘store 2 active’, or ‘store 2 inactive’?”
 
-<img src="./Images/Q21.jpeg" alt="Q21.jpeg" width="400"/> &nbsp;
+<img src="./Images/Q21.png" alt="Q21.png" width="400"/> &nbsp;
 
 22. “Can you pull for me a list of each film we have in inventory? I would like to see the film’s title, description, and the store_id value associated with each item, and its inventory_id. Thanks!”
 
