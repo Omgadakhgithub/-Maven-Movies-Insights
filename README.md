@@ -36,7 +36,8 @@ Highlight gaps in the inventory and optimize stock levels.
 
 # Project Result
 
-[Click here to get full code](https://github.com/MaithiliGajbhiye/Maven_Movies_Rental_Business_DA/blob/main/MOVIES_RENTAL_CODE.sql)
+[Click here to get full code]
+(https://github.com/Omgadakhgithub/-Maven-Movies-Insights/blob/main/Movies%20Analysis%20and%20Codes.sql)
 
 # Query Task
 
